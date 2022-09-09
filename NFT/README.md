@@ -1,1 +1,1 @@
-This repository is created for NFT Sales.
+This repository is created for NFT Sale.
